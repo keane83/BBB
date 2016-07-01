@@ -253,7 +253,7 @@
  */
 - (void)peripheral:(CBPeripheral *)peripheral didUpdateValueForCharacteristic:(CBCharacteristic *)characteristic error:(NSError *)error
 {
-    
+    //HAHA
     NSLog(@"%s",__func__);
     if (error) {
         NSLog(@"Error discovering characteristics: %@", [error localizedDescription]);
