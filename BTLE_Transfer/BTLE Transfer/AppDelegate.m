@@ -1,5 +1,5 @@
-/*LLLL
- LLLLL
+/*
+^_^
  File: AppDelegate.m
  
  Abstract: App Level Code
